@@ -19,6 +19,8 @@ viii.                        modify the hostname        |__add the hostname
 ix. display the list of hostnames - use for loop
 
 '''
+
+
 hosts = [] 
 print(f"Number of elements in the list:{len(hosts)}")
 
