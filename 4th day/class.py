@@ -14,4 +14,4 @@ obj1.placce = "New York"
 obj2 = enrollment()
 obj2.name = "Jane Smith"
 obj2.dob = "02-02-2001"
-obj2.placce = "Los Angeles"
+# obj2.placce = "Los Angeles"
